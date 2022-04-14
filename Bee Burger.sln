@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bee Burger", "Bee Burger.csproj", "{3571AF2F-6959-44E3-BAD4-F62AE3DAFDC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3571AF2F-6959-44E3-BAD4-F62AE3DAFDC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3571AF2F-6959-44E3-BAD4-F62AE3DAFDC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3571AF2F-6959-44E3-BAD4-F62AE3DAFDC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3571AF2F-6959-44E3-BAD4-F62AE3DAFDC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EDEDF15F-EEEF-46FA-A612-CC68DEFF98DB}
+	EndGlobalSection
+EndGlobal

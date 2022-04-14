@@ -1,0 +1,32 @@
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\bin\Debug\Bee Burger.exe.config
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\bin\Debug\Bee Burger.exe
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\bin\Debug\Bee Burger.pdb
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee Burger.csproj.AssemblyReference.cache
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Login.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Home.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Properties.Resources.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee Burger.csproj.GenerateResource.cache
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee Burger.csproj.CoreCompileInputs.cache
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee Burger.exe
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee Burger.pdb
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.About_Us.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Menu.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Total.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Delivery.resources
+F:\بشري\Bushra Programing Projects\Softwares Development\C#\All My Visual Studio Projects Demo Sourse\Bee Burger\obj\Debug\Bee_Burger.Payment.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\bin\Debug\Bee Burger.exe.config
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\bin\Debug\Bee Burger.exe
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\bin\Debug\Bee Burger.pdb
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee Burger.csproj.AssemblyReference.cache
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.About_Us.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Delivery.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Login.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Home.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Menu.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Payment.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Properties.Resources.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee_Burger.Total.resources
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee Burger.csproj.GenerateResource.cache
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee Burger.csproj.CoreCompileInputs.cache
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee Burger.exe
+F:\Softwares Development\C#\All My Visual Studio Projects Sourse\Bee Burger\obj\Debug\Bee Burger.pdb
